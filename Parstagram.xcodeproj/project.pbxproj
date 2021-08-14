@@ -136,7 +136,6 @@
 				A0847BB626C34765008193B7 /* AppDelegate.swift */,
 				A0847BB826C34765008193B7 /* SceneDelegate.swift */,
 				A0847BBC26C34765008193B7 /* Main.storyboard */,
-				A0847BEE26C767E1008193B7 /* README.md */,
 				A0847BBF26C34767008193B7 /* Assets.xcassets */,
 				A0847BC126C34767008193B7 /* LaunchScreen.storyboard */,
 				A0847BC426C34767008193B7 /* Info.plist */,
@@ -144,6 +143,7 @@
 				A0847BE826C34FE4008193B7 /* FeedViewController.swift */,
 				A0847BEA26C4721A008193B7 /* CameraViewController.swift */,
 				A0847BEC26C744AD008193B7 /* PostCell.swift */,
+				A0847BEE26C767E1008193B7 /* README.md */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
