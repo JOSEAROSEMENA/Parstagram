@@ -66,6 +66,7 @@
 		A0847BE826C34FE4008193B7 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		A0847BEA26C4721A008193B7 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		A0847BEC26C744AD008193B7 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		A0847BEE26C767E1008193B7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D4FA694C8FF3D237702EFB74 /* Pods-ParstagramTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ParstagramTests.debug.xcconfig"; path = "Target Support Files/Pods-ParstagramTests/Pods-ParstagramTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -135,6 +136,7 @@
 				A0847BB626C34765008193B7 /* AppDelegate.swift */,
 				A0847BB826C34765008193B7 /* SceneDelegate.swift */,
 				A0847BBC26C34765008193B7 /* Main.storyboard */,
+				A0847BEE26C767E1008193B7 /* README.md */,
 				A0847BBF26C34767008193B7 /* Assets.xcassets */,
 				A0847BC126C34767008193B7 /* LaunchScreen.storyboard */,
 				A0847BC426C34767008193B7 /* Info.plist */,
